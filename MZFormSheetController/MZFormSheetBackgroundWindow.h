@@ -24,7 +24,7 @@
 //  THE SOFTWARE.
 
 #import <UIKit/UIKit.h>
-#import "MZAppearance.h"
+@import MZAppearance;
 
 extern UIWindowLevel const MZFormSheetBackgroundWindowLevelAboveStatusBar;
 extern UIWindowLevel const MZFormSheetBackgroundWindowLevelBelowStatusBar;

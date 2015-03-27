@@ -24,7 +24,7 @@
 //  THE SOFTWARE.
 
 #import <UIKit/UIKit.h>
-#import "MZAppearance.h"
+@import MZAppearance;
 #import "MZFormSheetBackgroundWindow.h"
 #import "MZTransition.h"
 #import "MZMacro.h"
